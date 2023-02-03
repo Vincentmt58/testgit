@@ -1,0 +1,23 @@
+Version control system is a software tool used to manage and track changes in computer files. 
+Version control system is a kind of software that helps the developer team to efficiently communicate and manage(track) all the changes that have been made to the source code along with the information like who made and what changes have been made.
+
+Benefits of using version control systems are:
+
+-Collaboration: Allows multiple developers to work on the same project and keep track of each other's changes.
+
+-Historical Record: Maintains a complete history of the project, including all changes, who made them, and when they were made.
+
+-Revert Changes: Ability to revert to previous versions if needed, allowing you to undo mistakes or explore alternative solutions.
+
+-Branching: Facilitates creating separate lines of development, allowing developers to work on multiple features or bug fixes at the same time without affecting the main codebase.
+
+-Conflict Resolution: Helps in resolving conflicts when multiple developers try to change the same code simultaneously.
+
+-Disaster Recovery: Enables easy recovery of the codebase in case of data loss or corruption.
+
+-Improved code quality: Encourages a disciplined approach to development, with well-documented changes, and a clear audit trail of code evolution.
+
+Types of Version Control Systems
+-Local Version Control Systems (LVCSs): these are a type of version control system that are used to keep track of changes to files on a single computer, without relying on a centralized repository.
+-Centralized Version Control Systems (CVCSs): In this type of VCS, there is a single central repository that contains all the version history, and users check out files from the repository. Examples of CVCSs include Subversion and Perforce.
+-Distributed Version Control Systems (DVCSs): In this type of VCS, there are multiple copies of the repository, and each user has their own local repository that they can commit to. Examples of DVCSs include Git, Mercurial, and Bazaar.
